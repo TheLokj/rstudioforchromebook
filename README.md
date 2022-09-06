@@ -1,5 +1,6 @@
 # rstudioforchromebook
 --------------------------------------------------------------- EN ---------------------------------------------------------------
+
 A simple script to simplify the installation of Rstudio on chromebook
 
 Note that you must first activate Linux on your Chromebook.
