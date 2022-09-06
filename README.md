@@ -46,10 +46,10 @@ Pour cela, rendez-vous dans les paramètres de votre Chromebook, cherchez "Linux
 
 chmod +x rstudio.sh
 
-3 - Puis tapez : 
+5 - Puis tapez : 
 
 sudo ./rstudio.sh
 
-4 - Et voilà ! 
+6 - Et voilà ! 
 
 Une fois l'installation terminée, vous pouvez retrouver Rstudio dans le lanceur d'application et l'ajouter à la barre des tâches en effectuant un clique droit. Vous pouvez aussi passer le logiciel en Français dans les paramètres (Tools -> Global Options -> General -> Advanced) et augmenter le zoom dans l'onglet Appearance, le texte étant par défaut assez petit. 
