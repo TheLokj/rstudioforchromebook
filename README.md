@@ -8,17 +8,21 @@ To do this, go to your Chromebook settings, search for "Linux" and click on Enab
 
 Steps :
 
-1 - Download the script and put it in the home file (named Linux files in File Explorer)
+1 - Click on Code and Download ZIP. 
 
-2 - Open the terminal (Terminal -> penguin) and type :
+2 - Open it. 
+
+3 - Put the rstudio.sh in the home file (named Linux files in File Explorer)
+
+4 - Open the terminal (Terminal -> penguin) and type :
 
 chmod +x rstudio.sh
 
-3 - Then type : 
+5 - Then type : 
 
 sudo ./rstudio.sh
 
-4 - Enjoy ! 
+6 - Enjoy ! 
 
 Once the installation is complete, you can find it in the application launcher and add it to the taskbar by right-clicking. 
 You can increase the zoom in the Appearance tab, the text being quite small by default. 
@@ -32,9 +36,13 @@ Pour cela, rendez-vous dans les paramètres de votre Chromebook, cherchez "Linux
 
 Étapes :
 
-1 - Téléchargez le script et placez-le dans le fichier home (aussi nommé « Fichiers Linux » dans l'explorateur de fichiers).
+1 - Cliquez sur Code puis sur Download ZIP
 
-2 - Ouvrez le terminal (Terminal -> penguin) et tapez la commande suivante :
+2 - Ouvrez le fichier téléchargé.
+
+3 - Mettez rstudio.sh dans le dossier home (aussi nommé « Fichiers Linux » dans l'explorateur de fichiers).
+
+4 - Ouvrez le terminal (Terminal -> penguin) et tapez la commande suivante :
 
 chmod +x rstudio.sh
 
