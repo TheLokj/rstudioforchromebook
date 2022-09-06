@@ -1,5 +1,5 @@
 # rstudioforchromebook
---------------------------------------------------------------- EN ---------------------------------------------------------------
+------------------------------------------------------------------------ EN ----------------------------------------------------------------------------
 
 A simple script to simplify the installation of Rstudio on chromebook
 
@@ -27,7 +27,7 @@ sudo ./rstudio.sh
 Once the installation is complete, you can find it in the application launcher and add it to the taskbar by right-clicking. 
 You can increase the zoom in the Appearance tab, the text being quite small by default. 
 
---------------------------------------------------------------- FR ---------------------------------------------------------------
+------------------------------------------------------------------------ FR ----------------------------------------------------------------------------
 
 Un script simple pour faciliter l'installation de Rstudio sur Chromebook
 
