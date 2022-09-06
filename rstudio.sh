@@ -1,5 +1,8 @@
 sudo gpg --keyserver keyserver.ubuntu.com --recv-keys 3F32EE77E331692F
 
+sudo apt-get -y update 
+sudo apt-get -y upgrade
+
 sudo apt-get -y install r-base
 sudo apt-get -y install libnss3
 
